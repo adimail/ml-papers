@@ -304,3 +304,4 @@ notebook/templates/*.html
 
 data
 *.h5
+.virtual_documents
